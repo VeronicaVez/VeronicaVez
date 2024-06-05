@@ -17,4 +17,4 @@ Combining this with a master's in Revenue Management and Big Data, I have develo
 
 **HARD SKILLS**
 
-HTML, CSS, JavaScript, React.js, MongoDB, and Express. 🚀
+HTML, CSS, JavaScript, React.js, Node.js, MongoDB, and Express. 🚀
