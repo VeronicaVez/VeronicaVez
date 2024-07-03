@@ -4,7 +4,7 @@ Hello 👋
 
 👩🏻‍💻 My [Linkedin](https://www.linkedin.com/in/veronica-vezzoli)
 
-👀 Check my [portfolio](https://veronicavezzoli.netlify.app/)
+👀 Check my [portfolio](https://veronicavezzoli-portfolio.netlify.app/)
 
 **ABOUT ME**
 
